@@ -1,1 +1,1 @@
-# Dynamic-Programming-Exercise
+Programming-Exercise
